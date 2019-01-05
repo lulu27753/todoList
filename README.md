@@ -12,11 +12,11 @@
 
 # 项目实现
 
-## 通过组件 state 实现计数器
+- 通过组件 state 实现计数器
 
-## 通过 redux 实现计数器
+- 通过 redux 实现计数器
 
-## 通过 redux 、 react-redux 实现 TodoList
+- 通过 redux 、 react-redux 实现 TodoList
 
 ![todolist](./assets/todolist.gif)
 
